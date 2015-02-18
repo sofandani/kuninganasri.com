@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PS Auto Sitemap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-26 14:24+0900\n"
+"PO-Revision-Date: 2011-12-12 11:17+0900\n"
+"Last-Translator: Hitoshi Omagari \n"
+"Language-Team: Prime Strategy Co.,Ltd. <system@prime-strategy.co.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ps_auto_sitemap\n"
+
+#: ps_auto_sitemap.php:14
+msgid "Simple"
+msgstr "シンプル"
+
+#: ps_auto_sitemap.php:15
+msgid "Simple2"
+msgstr "シンプル２"
+
+#: ps_auto_sitemap.php:16
+msgid "Checker"
+msgstr "チェックリスト"
+
+#: ps_auto_sitemap.php:17
+msgid "Fluorescent marker"
+msgstr "蛍光ペン"
+
+#: ps_auto_sitemap.php:18
+msgid "Document tree"
+msgstr "ドキュメントツリー"
+
+#: ps_auto_sitemap.php:19
+msgid "Label"
+msgstr "付箋"
+
+#: ps_auto_sitemap.php:20
+msgid "Music"
+msgstr "音譜"
+
+#: ps_auto_sitemap.php:21
+msgid "Arrows"
+msgstr "矢印"
+
+#: ps_auto_sitemap.php:22
+msgid "Business"
+msgstr "ビジネス"
+
+#: ps_auto_sitemap.php:23
+msgid "Index"
+msgstr "索引"
+
+#: ps_auto_sitemap.php:24
+msgid "Urban"
+msgstr "アーバン"
+
+#: ps_auto_sitemap.php:25
+msgid "Under score"
+msgstr "アンダースコア"
+
+#: ps_auto_sitemap.php:26
+msgid "Cube"
+msgstr "キューブ"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:190
+msgid "Show posts in this category."
+msgstr "カテゴリーの投稿リストを表示"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:364
+msgid "The settings of PS Auto Sitemap has changed successfully."
+msgstr "PS Auto Sitemap の設定を変更いたしました。"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:368
+msgid "The settings has not been changed. There were no changes or failed to update the data base."
+msgstr "設定は変更されていません。変更がなかったか、データベースのアップデートに失敗いたしました。"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:373
+msgid "PS Auto Sitemap isn't using cache system currently, because cache or parent directorty isn't writable. Please check owner and permission of upload directory."
+msgstr "ファイルの書き込みが出来ないため、キャッシュシステムを使用していません。キャッシュもしくはアップロードディレクトリの所有者と権限を確認してください。"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:381
+msgid "Display home list"
+msgstr "ホームページの出力"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:382
+#: ps-auto-sitemap/ps_auto_sitemap.php:386
+#: ps-auto-sitemap/ps_auto_sitemap.php:390
+msgid "Display"
+msgstr "出力する"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:385
+msgid "Display post tree"
+msgstr "投稿リストの出力"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:389
+msgid "Display page tree"
+msgstr "固定ページリストの出力"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:393
+msgid "PostID of the sitemap"
+msgstr "サイトマップを表示する記事"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:395
+msgid "* Please input display sitemap post's ID."
+msgstr "* サイトマップを表示する記事のIDを入力してください。"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:399
+msgid "Depth level"
+msgstr "出力階層制限"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:402
+msgid "no limit"
+msgstr "制限なし"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:403
+msgid "level 1"
+msgstr "第1階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:404
+msgid "level 2"
+msgstr "第2階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:405
+msgid "level 3"
+msgstr "第3階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:406
+msgid "level 4"
+msgstr "第4階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:407
+msgid "level 5"
+msgstr "第5階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:408
+msgid "level 6"
+msgstr "第6階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:409
+msgid "level 7"
+msgstr "第7階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:410
+msgid "level 8"
+msgstr "第8階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:411
+msgid "level 9"
+msgstr "第9階層"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:412
+msgid "level 10"
+msgstr "第10階層"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:417
+msgid "Display first"
+msgstr "先に出力するリスト"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:420
+msgid "Post"
+msgstr "投稿"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:422
+msgid "Page"
+msgstr "固定ページ"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:426
+msgid "Display of categories &amp; posts"
+msgstr "カテゴリーと投稿の表示"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:429
+msgid "Combine"
+msgstr "同一マップ内"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:431
+msgid "Divide"
+msgstr "投稿を分割"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:435
+msgid "Excluded categories"
+msgstr "除外カテゴリ"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:437
+msgid "* Please input category ID of exclude categories. (Separated by comma)"
+msgstr "* 出力しないカテゴリのIDを入力してください。（複数の場合はカンマ区切り）"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:441
+msgid "Exclude posts"
+msgstr "除外記事"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:443
+msgid "* Please input post ID of exclude posts. (Separated by comma)"
+msgstr "* 出力しない記事のIDを入力してください。（複数の場合はカンマ区切り）"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:447
+msgid "Select style"
+msgstr "スタイルの変更"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:450
+msgid "no style"
+msgstr "スタイルなし"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:454
+msgid "Using cache"
+msgstr "キャッシュの使用"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:459
+msgid "use"
+msgstr "使用する"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:462
+msgid "Hide developper link"
+msgstr "制作者リンクの表示"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:463
+msgid "Hide"
+msgstr "非表示"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:471
+msgid "Usage"
+msgstr "ご利用方法"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:473
+msgid "Post a page that will use as the sitemap page."
+msgstr "サイトマップを表示させたい記事を作成します。"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:474
+msgid "Insert following code in the content area. (<strong>Use HTML mode</strong>)"
+msgstr "作成した記事のcontent部分に、<strong>HTMLモードで</strong>以下のコードを入力します。"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:476
+msgid "Define the sitemap's ID at \"<strong>PostID of the sitemap</strong>\" field of the setings."
+msgstr "記事編集画面で記事ID（アドレスバーの &amp;post=nn ）を確認し、『サイトマップを表示する記事』欄に指定します。"
+

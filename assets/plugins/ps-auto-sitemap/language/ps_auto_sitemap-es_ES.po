@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PS Auto Sitemap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-19 15:45+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alejandro Urrutia <alejandro@theindependentproject.com>\n"
+"Language-Team:  <alejandro@theindependentproject.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+
+#: ps_auto_sitemap.php:16
+msgid "Simple"
+msgstr "Simple"
+
+#: ps_auto_sitemap.php:17
+msgid "Simple2"
+msgstr "Simple2"
+
+#: ps_auto_sitemap.php:18
+msgid "Checker"
+msgstr "Chequeo"
+
+#: ps_auto_sitemap.php:19
+msgid "Fluorescent marker"
+msgstr "Marcador fluorescente"
+
+#: ps_auto_sitemap.php:20
+msgid "Document tree"
+msgstr "Árbol de documentos"
+
+#: ps_auto_sitemap.php:21
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ps_auto_sitemap.php:22
+msgid "Music"
+msgstr "Música"
+
+#: ps_auto_sitemap.php:23
+msgid "Arrows"
+msgstr "Flechas"
+
+#: ps_auto_sitemap.php:24
+msgid "Business"
+msgstr "Negocios"
+
+#: ps_auto_sitemap.php:25
+msgid "Index"
+msgstr "Indice"
+
+#: ps_auto_sitemap.php:26
+msgid "Urban"
+msgstr "Urbano"
+
+#: ps_auto_sitemap.php:27
+msgid "Under score"
+msgstr "Puntuación"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:312
+msgid "The settings of PS Auto Sitemap has changed successfully."
+msgstr "La configuración de PS Auto Sitemap fueron cambiadas con éxito."
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:316
+msgid "The settings has not been changed. There were no changes or failed to update the data base."
+msgstr "La configuración no ha cambiado. No hubo cambios o se ha producido un fallo al actualizar la base de datos."
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:321
+msgid "PS Auto Sitemap isn't using cache system currently, because cache or parent directorty isn't writable. Please check owner and permission of upload directory."
+msgstr "PS Auto Sitemap no utiliza el sistema de caché en este momento, porque el directorio cache o su directorio padre no tienen permiso de escritura. Por favor otorgue permisos."
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:329
+msgid "Display home list"
+msgstr "Mostar lista de inicio"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:330
+#: ps-auto-sitemap/ps_auto_sitemap.php:334
+#: ps-auto-sitemap/ps_auto_sitemap.php:338
+msgid "Display"
+msgstr "Mostrar"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:333
+msgid "Display post tree"
+msgstr "Mostrar árbol de entradas"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:337
+msgid "Display page tree"
+msgstr "Mostrar árbol de páginas"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:341
+msgid "PostID of the sitemap"
+msgstr "PostID de tu página sitemap"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:343
+msgid "* Please input display sitemap post's ID."
+msgstr "*Por favor coloque el PostID de la página sitemap."
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:347
+msgid "Depth level"
+msgstr "Nivel de profundidad"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:350
+msgid "no limit"
+msgstr "Sin límite"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:351
+msgid "level 1"
+msgstr "Nivel 1"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:352
+msgid "level 2"
+msgstr "Nivel 2"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:353
+msgid "level 3"
+msgstr "Nivel 3"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:354
+msgid "level 4"
+msgstr "Nivel 4"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:355
+msgid "level 5"
+msgstr "Nivel 5"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:356
+msgid "level 6"
+msgstr "Nivel 6"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:357
+msgid "level 7"
+msgstr "Nivel 7"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:358
+msgid "level 8"
+msgstr "Nivel 8"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:359
+msgid "level 9"
+msgstr "Nivel 9"
+
+#: ps_auto_sitemap/ps_auto_sitemap.php:360
+msgid "level 10"
+msgstr "Nivel 10"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:365
+msgid "Display first"
+msgstr "Mostrar primero"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:368
+msgid "Post"
+msgstr "Entrada"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:370
+msgid "Page"
+msgstr "Página"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:374
+msgid "Excluded categories"
+msgstr "Categorías excluidas"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:376
+msgid "* Please input category ID of exclude categories. (Separated by comma)"
+msgstr "*Por favor coloque el PostID de la(s) categoría(s) excluída(s) (Separadas por coma)."
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:380
+msgid "Exclude posts"
+msgstr "Excluir entradas"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:382
+msgid "* Please input post ID of exclude posts. (Separated by comma)"
+msgstr "*Por favor coloque el PostID de la(s) página(s) excuída(s). (Separadas por coma)"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:386
+msgid "Select style"
+msgstr "Selecciones estilo"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:389
+msgid "no style"
+msgstr "Sin estilo"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:397
+msgid "Using cache"
+msgstr "Usar caché"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:398
+msgid "use"
+msgstr "Usar"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:401
+msgid "Hide developper link"
+msgstr "Ocultar enlace del desarrollador"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:402
+msgid "Hide"
+msgstr "Ocultar"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:410
+msgid "Usage"
+msgstr "Uso"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:412
+msgid "Post a page that will use as the sitemap page."
+msgstr "Cree una página para ser usada como sitemap."
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:413
+msgid "Insert following code in the content area. (<strong>Use HTML mode</strong>)"
+msgstr "Coloque el siguiente código en el área de contenido. (<strong>Modo HTML</strong>)"
+
+#: ps-auto-sitemap/ps_auto_sitemap.php:415
+msgid "Define the sitemap's ID at \"<strong>PostID of the sitemap</strong>\" field of the setings."
+msgstr "Defina el PostID del sitemap en el campo de\"<strong>PostID del sitemap</strong>\" de la configuración."
+

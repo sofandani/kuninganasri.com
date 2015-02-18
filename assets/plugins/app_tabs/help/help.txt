@@ -1,0 +1,55 @@
+Preview of a LeTabs shortcodes, explanations are under them.
+
+[letabs width="" initialtab=1 autoplayinterval=0 color="dark"]
+
+[letabs_tab_container]
+
+[letabs_tab]First Tab[/letabs_tab]
+[letabs_tab]Second Tab[/letabs_tab]
+[letabs_tab]Third Tab[/letabs_tab]
+
+[/letabs_tab_container]
+
+[letabs_content_container]
+
+[letabs_content]Content For First Tab.[/letabs_content]
+[letabs_content]Content For Second Tab.[/letabs_content]
+[letabs_content]Content For Third Tab.[/letabs_content]
+
+[/letabs_content_container]
+
+[/letabs]
+
+---
+
+LeTabs wrapped container:
+	[letabs width="" initialtab=1 autoplayinterval=0 color="dark"]
+
+Container for navigational tab elements:
+	[letabs_tab_container]
+
+Tab elements with title text:
+	[letabs_tab]First Tab[/letabs_tab]
+	[letabs_tab]Second Tab[/letabs_tab]
+	[letabs_tab]Third Tab[/letabs_tab]
+
+	[/letabs_tab_container]
+
+Container for content elements that are corresponding to tabs:
+	[letabs_content_container]
+
+Content elements:
+	[letabs_content]Content For First Tab.[/letabs_content]
+	[letabs_content]Content For Second Tab.[/letabs_content]
+	[letabs_content]Content For Third Tab.[/letabs_content]
+
+	[/letabs_content_container]
+
+	[/letabs]
+
+---
+
+Available color options: dark, blue, green, purple, pink
+AutoplayInterval is autoplay feature defined in miliseconds, 0 means disabled
+
+---

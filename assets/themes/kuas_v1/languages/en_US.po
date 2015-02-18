@@ -1,0 +1,1297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KuAs v1\n"
+"POT-Creation-Date: 2013-11-30 12:15+0700\n"
+"PO-Revision-Date: 2013-11-30 12:16+0700\n"
+"Last-Translator: \n"
+"Language-Team: Ofan <admin@kuninganasri.com>\n"
+"Language: Indonesia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "OPAT . ENOL . OPAT"
+msgstr "Four.Zero.Four"
+
+#: ../404.php:19
+msgid "Sanes angkot atanapi nomer kaos komo plat nomer mah asa henteu,"
+msgstr "Isn't taxy, number jersey or car license plate"
+
+#: ../404.php:20
+msgid "Tapi halaman yang <strong>ANDA CARI</strong> tidak ada!"
+msgstr "But <strong>YOUR SEARCHING</strong> page is not found!"
+
+#: ../archive.php:16
+#, php-format
+msgid "Arsip Harian: %s"
+msgstr "Daily Archive: %s"
+
+#: ../archive.php:18
+#, php-format
+msgid "Arsip Bulanan: %s"
+msgstr "Monthly Archive: %s"
+
+#: ../archive.php:20
+#, php-format
+msgid "Arsip Tahunan: %s"
+msgstr "Yearly Archive: %s"
+
+#: ../archive.php:23
+msgid "Arsip Lencana dan Penghargaan"
+msgstr "Rewards and Badges Archive"
+
+#: ../author.php:34
+#, php-format
+msgid "Tentang %s"
+msgstr "About %s"
+
+#: ../author.php:54
+msgid "tulisan"
+msgstr "article"
+
+#: ../author.php:63
+#, php-format
+msgid "%1$s tulisan %2$s"
+msgstr "%1$s posts %2$s"
+
+#: ../author.php:98 ../author.php:192
+msgid "Beberapa tulisan kiriman anda ditangguhkan."
+msgstr "Some writing your submission suspended."
+
+#: ../author.php:100 ../author.php:194
+msgid ""
+"Untuk sementara formulir submisi di non-aktifkan sampai tulisan di setujui"
+msgstr "Submission form is disabled temporarily until approved posts"
+
+#: ../author.php:102 ../author.php:196
+msgid "Jika keberatan, silahkan "
+msgstr "If an objection, please "
+
+#: ../author.php:103 ../author.php:197
+#, php-format
+msgid "kontak ke %1$s, atau melalui formulir di %2$s"
+msgstr "Contact to %1$s, or via form at %2$s"
+
+#: ../author.php:103 ../author.php:197 ../author.php:218
+msgid "Email"
+msgstr ""
+
+#: ../author.php:103 ../author.php:197 ../author.php:218
+msgid "Kontak"
+msgstr "Contact"
+
+#: ../author.php:215
+msgid "Tidak Terdaftar :p"
+msgstr "Not registered :p"
+
+#: ../author.php:217
+msgid ""
+"Hubungi kami jika halaman ini tidak ada perubahan setelah anda mengirimkan "
+"tulisan."
+msgstr "Please contact us if this page nothing changes after you submit posts."
+
+#: ../author.php:218
+#, php-format
+msgid "Melalui %1$s (khusus), atau melalui formulir di %2$s"
+msgstr "Go by %1$s (sepcific), or via form at %2$s"
+
+#: ../category.php:25
+#, php-format
+msgid "Anda ada di saluran <span>%1$s</span><br />Total %2$s Tulisan"
+msgstr "You are in <span>%1$s</span> channel<br />Total %2$s Posts"
+
+#: ../category.php:27
+#, php-format
+msgid "Anda ada di,<br/>Saluran <span>%s</span>"
+msgstr "You are ini,<br/><span>%s</span> channel"
+
+#: ../category.php:51
+#, php-format
+msgid "Tidak ada tulisan di saluran <strong>%s</strong>"
+msgstr "There are no posts at <strong>%s</strong> channel"
+
+#: ../comments.php:21
+msgid ""
+"Tulisan ini khusus untuk beberapa pengguna, silahkan masukan password untuk "
+"membukanya"
+msgstr "This post for sepsifically user, please fill password key to unlock"
+
+#: ../comments.php:56
+msgid "Lihat komentar lainnya"
+msgstr "View more comments"
+
+#: ../comments.php:57
+msgid "&laquo; Terlawas"
+msgstr "&laquo; Older"
+
+#: ../comments.php:58
+msgid "Terbaru &raquo;"
+msgstr "Newer &raquo;"
+
+#: ../comments.php:75
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:77
+msgid "E-mail"
+msgstr ""
+
+#: ../comments.php:79
+msgid "Website"
+msgstr ""
+
+#: ../footer.php:28 ../sidebar-big.php:16 ../sidebar-left.php:16
+#: ../sidebar-middle.php:106
+msgid "KuAs Theme"
+msgstr ""
+
+#: ../footer.php:29 ../functions.php:166
+msgid "Footer Widget"
+msgstr ""
+
+#: ../footer.php:60
+msgid "Copyright &copy; "
+msgstr ""
+
+#: ../fullwidth.php:26 ../image.php:20 ../includes/_unused/post.php:26
+msgid "no comments"
+msgstr ""
+
+#: ../fullwidth.php:26 ../image.php:20 ../includes/_unused/post.php:26
+msgid "1 comment"
+msgstr ""
+
+#: ../fullwidth.php:26 ../image.php:20 ../includes/_unused/post.php:26
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../fullwidth.php:43 ../page.php:47
+msgid "&#8249; Older posts"
+msgstr ""
+
+#: ../fullwidth.php:44 ../page.php:48
+msgid "Newer posts &#8250;"
+msgstr ""
+
+#: ../fullwidth.php:51 ../page.php:55 ../single.php:118
+msgid "Tidak Ada"
+msgstr "Nothing Found"
+
+#: ../fullwidth.php:52 ../page.php:56 ../single.php:119
+msgid ""
+"Maaf, tapi tidak ada hasil yang ditemukan untuk arsip yang diminta. Mungkin "
+"pencarian akan membantu."
+msgstr ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help."
+
+#: ../functions.php:48
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:49
+msgid "Secondary Navigation"
+msgstr ""
+
+#: ../functions.php:50
+msgid "Tertiary Navigation"
+msgstr ""
+
+#: ../functions.php:144
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:146
+msgid "Sidebar Widget Kanan Utama"
+msgstr "Main Right Siebar Widget"
+
+#: ../functions.php:154
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions.php:156
+msgid "Sidebar Widget Kiri Utama"
+msgstr "Main Left Sidebar Widget"
+
+#: ../functions.php:164
+msgid "Footer Area"
+msgstr ""
+
+#: ../functions.php:174
+msgid "Middle Pages Sidebar"
+msgstr ""
+
+#: ../functions.php:176
+msgid "Sidebar Widget Tengah Selain Beranda"
+msgstr "Middle Home Sidebar Widget"
+
+#: ../functions.php:184
+msgid "Right Pages Sidebar"
+msgstr ""
+
+#: ../functions.php:186
+msgid "Sidebar Widget Kiri Selain Beranda"
+msgstr "Other Left Home Sidebar Widget"
+
+#: ../functions.php:194
+msgid "Big Sidebar"
+msgstr ""
+
+#: ../functions.php:196
+msgid "Sidebar Widget Besar"
+msgstr "Big Sidebar Widget"
+
+#: ../functions.php:232
+msgid "Mengirim informasi, please wait..."
+msgstr "Send information, please wait..."
+
+#: ../functions.php:313
+msgid "Anda menggunakan perangkat smartphone & tablet"
+msgstr "You use a smartphone / tablet"
+
+#: ../functions.php:314
+msgid "Untuk lebih optimal, gunakan browser PC atau Laptop"
+msgstr "To be optimal, use the browser PC or Laptop"
+
+#: ../functions.php:361
+msgid "(close)"
+msgstr ""
+
+#: ../functions.php:405
+msgid "Salah username atau password."
+msgstr "Wrong username or password"
+
+#: ../functions.php:407
+msgid "Login berhasil, memuat ulang..."
+msgstr "Login successfull, reloading..."
+
+#: ../functions.php:424
+#, php-format
+msgid "Menuju ke profile anda (%1$s)"
+msgstr "Go to your profile (%1$s)"
+
+#: ../functions.php:426
+msgid "Keluar"
+msgstr "Logout"
+
+#: ../functions.php:426
+msgid "keluar"
+msgstr "logout"
+
+#: ../functions.php:429
+msgid "Masuk"
+msgstr "Login"
+
+#: ../functions.php:454
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:485
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../functions.php:492
+msgid "Tunggu moderasi."
+msgstr "Waiting for moderation."
+
+#: ../functions.php:501
+msgid "Tanggapi"
+msgstr "Reply"
+
+#: ../functions.php:515
+msgid "Smiley Code"
+msgstr ""
+
+#: ../functions.php:921
+msgid "tahun"
+msgstr "years"
+
+#: ../functions.php:922
+msgid "bulan"
+msgstr "months"
+
+#: ../functions.php:923
+msgid "pekan"
+msgstr "weeks"
+
+#: ../functions.php:924
+msgid "hari"
+msgstr "days"
+
+#: ../functions.php:925
+msgid "jam"
+msgstr "hours"
+
+#: ../functions.php:926
+msgid "menit"
+msgstr "minutes"
+
+#: ../functions.php:927 ../functions.php:944
+msgid "detik"
+msgstr "seconds"
+
+#: ../functions.php:937
+msgid "suatu hari"
+msgstr "one days"
+
+#: ../functions.php:946
+msgid " yg lalu"
+msgstr " ago"
+
+#: ../functions.php:1054 ../functions.php:1070 ../functions.php:1080
+#: ../functions.php:1100 ../functions.php:1120
+#, php-format
+msgid "Lanjutkan membaca: %s"
+msgstr "Continue reading: %s"
+
+#: ../functions.php:1065 ../functions.php:1094 ../functions.php:1131
+#: ../single.php:84
+msgid "dibaca"
+msgstr "read"
+
+#: ../functions.php:1070 ../functions.php:1100
+msgid "Ikut Baca! &raquo;"
+msgstr "Join Reading! &raquo;"
+
+#: ../functions.php:1084 ../single.php:87
+msgid "Saluran:"
+msgstr "Channel:"
+
+#: ../functions.php:1164
+msgid "Tidak ada tulisan disini"
+msgstr "No posts found here"
+
+#: ../functions.php:1218
+#, php-format
+msgid "Ada %1$s tulisan di saluran %2$s %3$s"
+msgstr "%1$s posts in %2$s %3$s channel"
+
+#: ../functions.php:1220
+#, php-format
+msgid "Tidak ada tulisan di saluran %s :("
+msgstr "No posts found in channel %s :("
+
+#: ../functions.php:1238
+msgid "Semua"
+msgstr "All"
+
+#: ../functions.php:1241
+#, php-format
+msgid "Lihat Semua %s &raquo;"
+msgstr "View all %s &raquo;"
+
+#: ../functions.php:1314 ../functions.php:1362
+msgid "Lanjutkan membaca"
+msgstr "Continue reading"
+
+#: ../functions.php:1373
+#, php-format
+msgid "Lihat semua saluran %1$s - Total %2$s tulisan"
+msgstr "View all %1$s channels - Total %2$s posts"
+
+#: ../functions.php:1373
+msgid "Lihat Semua"
+msgstr "View all"
+
+#: ../functions.php:1461
+#, php-format
+msgid "%s Tulisan"
+msgstr "%s Posts"
+
+#: ../functions.php:1470
+msgid " Kuningan"
+msgstr ""
+
+#: ../functions.php:1473
+msgid "Favorit Mamang Kuningan Asri"
+msgstr "Mamang Kuningan Asri favorited"
+
+#: ../functions.php:1509 ../includes/feat_cat1.php:32
+#: ../includes/_unused/carousel.php:57
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../functions.php:1539 ../includes/feat_cat1.php:54
+#: ../includes/feat_cat2.php:54 ../includes/feat_cat3.php:54
+#: ../includes/feat_cat4.php:54 ../includes/_unused/carousel.php:87
+msgid "Baca &raquo;"
+msgstr "Read &raquo;"
+
+#: ../functions.php:1657
+msgid "Lihat semua saluran ini &raquo;"
+msgstr "View all this channel &raquo;"
+
+#: ../functions.php:1674
+msgid "Rekomendasi Tulisan Lain"
+msgstr "Recommended Posts"
+
+#: ../functions.php:1982 ../functions.php:1989 ../functions.php:2023
+#: ../includes/feat_cat2.php:74 ../includes/feat_cat3.php:74
+#: ../includes/feat_cat4.php:74 ../includes/_unused/post.php:15
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../image.php:29
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:30
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../image.php:34
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: ../index.php:35
+#, php-format
+msgid "Topik Utama %s"
+msgstr "Top Topic %s"
+
+#: ../index.php:39
+#, php-format
+msgid "Tempat Menarik di %s"
+msgstr "Interesting Places in %s"
+
+#: ../index.php:88
+msgid "Komunitas"
+msgstr "Communities"
+
+#: ../index.php:125
+msgid "Please enable theme settings from the theme options"
+msgstr ""
+
+#: ../page.php:28
+msgid "0"
+msgstr ""
+
+#: ../page.php:28
+msgid "1"
+msgstr ""
+
+#: ../page.php:28
+msgid "%"
+msgstr ""
+
+#: ../search.php:43
+msgid "Galau (galat layauw)"
+msgstr "Error (do not said)"
+
+#: ../search.php:45
+msgid ""
+"Kata kunci yang dicari tidak ada di database kami. Coba deh cari kata kunci "
+"lain :)"
+msgstr "Keywords is not found on our database. Please try other keywords :)"
+
+#: ../searchform.php:14
+msgid "Cari sesuatu"
+msgstr "Search something"
+
+#: ../sidebar-big.php:17
+msgid "Sidebar Big Widget"
+msgstr ""
+
+#: ../sidebar-left.php:17
+msgid "Sidebar Left Widget"
+msgstr ""
+
+#: ../sidebar-middle.php:107
+msgid "Sidebar Middle Widget"
+msgstr ""
+
+#: ../sidebar-middle.php:117
+msgid "Pilih Saluran Lain"
+msgstr "Choose other channels"
+
+#: ../single.php:44 ../widgets/kuas_widget_for_general_function.php:54
+msgid "dibagikan ke media sosial"
+msgstr "shared to social media"
+
+#: ../single.php:71
+msgid "oleh"
+msgstr "by"
+
+#: ../single.php:72
+#, php-format
+msgid "lihat %s tulisan lainnya &raquo;"
+msgstr "view %s more posted &raquo;"
+
+#: ../single.php:81
+msgid "dimuat "
+msgstr "posted "
+
+#: ../single.php:84
+msgid "belum dibaca"
+msgstr "unread"
+
+#: ../single.php:88
+msgid "Topik: "
+msgstr "Topic:"
+
+#: ../single.php:97
+msgid "Halaman:"
+msgstr "Pages"
+
+#: ../single.php:106
+msgid "&#8249; Info Lawas"
+msgstr "&#8249; Older Posts"
+
+#: ../single.php:107
+msgid "Info Baru &#8250;"
+msgstr "Newer Posts &#8250;"
+
+#: ../tag.php:16
+#, php-format
+msgid "Topik:<br />%s"
+msgstr "Topic:<br />%s"
+
+#: ../includes/feat_cat1.php:74 ../includes/feat_cat2.php:32
+#: ../includes/feat_cat3.php:32 ../includes/feat_cat4.php:32
+#, php-format
+msgid "Tautan: %s"
+msgstr "URL: %s"
+
+#: ../includes/tabsarchive.php:14 ../includes/tabshome.php:17
+msgid "KuAs TV"
+msgstr ""
+
+#: ../includes/tabsarchive.php:20 ../includes/tabshome.php:38
+#, php-format
+msgid "Saluran %s"
+msgstr "Channel %s"
+
+#: ../includes/tabsarchive.php:20
+msgid "Video List"
+msgstr ""
+
+#: ../includes/tabshome.php:14
+msgid "Favorit KuAs"
+msgstr "KuAs Favorited"
+
+#: ../includes/tabshome.php:15
+msgid "Tulisan Terkini"
+msgstr "Recent Posts"
+
+#: ../includes/tabshome.php:16
+msgid "Tempat"
+msgstr "Places"
+
+#: ../includes/tabshome.php:38
+msgid "Klik untuk melihat Video List"
+msgstr "Click to view Video List"
+
+#: ../includes/user.post.php:41
+msgid "Isian wajib masih kosong"
+msgstr "Required filed is empty"
+
+#: ../includes/user.post.php:45
+msgid "Judul minimal 2 kata"
+msgstr "Title at least 2 words"
+
+#: ../includes/user.post.php:45 ../includes/user.post.php:49
+#: ../includes/user.post.php:53 ../includes/user.post.php:57
+#: ../includes/user.post.php:61 ../includes/user.post.php:99
+msgid "Tulisan belum dikirim"
+msgstr "Posts is failed"
+
+#: ../includes/user.post.php:49
+msgid "Judul maksimal 10 kata"
+msgstr "Title maximum 10 words"
+
+#: ../includes/user.post.php:53
+msgid "Isi tulisan minimal 100 kata"
+msgstr "Content writing at least 100 words"
+
+#: ../includes/user.post.php:57
+msgid "Pilih kategori tulisan minimal 1"
+msgstr "Select at least 1 category posts"
+
+#: ../includes/user.post.php:61
+msgid "Pilih gambar untuk cover tulisan"
+msgstr "Select an image for the post cover"
+
+#: ../includes/user.post.php:88
+msgid "Tulisan terkirim"
+msgstr "Posts Submited"
+
+#: ../includes/user.post.php:93
+msgid "Gagal mengirim tulisan"
+msgstr "Failed sumbit posts"
+
+#: ../includes/user.post.php:99
+msgid "File cover tulisan bukan gambar"
+msgstr "Post cover is not file image"
+
+#: ../includes/user.post.php:179
+msgid "Judul Tulisan"
+msgstr "Post Title"
+
+#: ../includes/user.post.php:185
+msgid "Pilih Kategori Tulisan"
+msgstr "Select Categories Posts"
+
+#: ../includes/user.post.php:196
+msgid "Pilih Gambar"
+msgstr "Choose Image"
+
+#: ../includes/user.post.php:203
+msgid "Isi Tulisan"
+msgstr "Posts Content"
+
+#: ../includes/user.post.php:208
+msgid "Gunakan pencarian venue foursquare kemudian copy paste"
+msgstr "Use venue searching foursquare and then copy paste"
+
+#: ../includes/user.post.php:209
+msgid "Venue ID (option): "
+msgstr ""
+
+#: ../includes/user.post.php:217
+msgid "Oke, Kirim Tulisan Sekarang!"
+msgstr "Oke, Submit Post Now!"
+
+#: ../includes/user.post.php:219
+msgid "Bertanda bintang merah"
+msgstr "Red asterisk are"
+
+#: ../includes/user.post.php:219
+msgid "WAJIB"
+msgstr "REQUIRED"
+
+#: ../includes/user.post.php:219
+msgid "di isi"
+msgstr "fill up"
+
+#: ../includes/_unused/post.php:12
+msgid "Important"
+msgstr ""
+
+#: ../includes/_unused/post.php:23
+msgid "Tagged: "
+msgstr ""
+
+#: ../includes/_unused/post.php:41
+msgid "Baca "
+msgstr "Read"
+
+#: ../settings/theme-options.php:73 ../settings/theme-options.php:193
+msgid "Theme Options"
+msgstr ""
+
+#: ../settings/theme-options.php:196
+msgid "Theme settings updated successfully"
+msgstr ""
+
+#: ../settings/theme-options.php:206
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../settings/theme-options.php:211
+msgid "Logo URL:"
+msgstr ""
+
+#: ../settings/theme-options.php:214
+msgid "Enter full URL of logo image starting with <strong>http:// </strong>."
+msgstr ""
+
+#: ../settings/theme-options.php:219
+msgid "Favicon URL"
+msgstr ""
+
+#: ../settings/theme-options.php:222
+msgid ""
+"Enter full URL of favicon image starting with <strong>http:// </strong>."
+msgstr ""
+
+#: ../settings/theme-options.php:227
+msgid "Custom RSS URL"
+msgstr ""
+
+#: ../settings/theme-options.php:229
+msgid ""
+"Enter full URL of RSS Feeds link starting with <strong>http:// </strong>. "
+"Leave blank to use default RSS Feeds."
+msgstr ""
+
+#: ../settings/theme-options.php:235
+msgid "Enable Slider"
+msgstr ""
+
+#: ../settings/theme-options.php:237
+msgid "Check to enable the slider on homepage."
+msgstr ""
+
+#: ../settings/theme-options.php:241
+msgid "Slider Category"
+msgstr ""
+
+#: ../settings/theme-options.php:245 ../settings/theme-options.php:266
+#: ../settings/theme-options.php:288 ../settings/theme-options.php:301
+#: ../settings/theme-options.php:314 ../settings/theme-options.php:327
+#: ../settings/theme-options.php:348
+#: ../widgets/kuas_widget_subcategories.php:215
+#: ../widgets/kuas_widget_subcategories.php:230
+msgid "--none--"
+msgstr ""
+
+#: ../settings/theme-options.php:250
+msgid ""
+"Select the category for the slider. Select <strong>none</strong> to show "
+"latest posts."
+msgstr ""
+
+#: ../settings/theme-options.php:256
+msgid "Enable Carousel"
+msgstr ""
+
+#: ../settings/theme-options.php:258
+msgid "Check to enable the carousel on homepage."
+msgstr ""
+
+#: ../settings/theme-options.php:262
+msgid "Carousel Category"
+msgstr ""
+
+#: ../settings/theme-options.php:271
+msgid ""
+"Select the category for the carousel. Select <strong>none</strong> to show "
+"latest posts."
+msgstr ""
+
+#: ../settings/theme-options.php:277
+msgid "Enable Featured Categories"
+msgstr ""
+
+#: ../settings/theme-options.php:280
+msgid "Check to enable the featured categories."
+msgstr ""
+
+#: ../settings/theme-options.php:284
+msgid "Featured Category 1"
+msgstr ""
+
+#: ../settings/theme-options.php:293
+msgid "Select the first featured category."
+msgstr ""
+
+#: ../settings/theme-options.php:297
+msgid "Featured Category 2"
+msgstr ""
+
+#: ../settings/theme-options.php:306
+msgid "Select the second featured category."
+msgstr ""
+
+#: ../settings/theme-options.php:310
+msgid "Featured Category 3"
+msgstr ""
+
+#: ../settings/theme-options.php:319
+msgid "Select the third featured category."
+msgstr ""
+
+#: ../settings/theme-options.php:323
+msgid "Featured Category 4"
+msgstr ""
+
+#: ../settings/theme-options.php:332
+msgid "Select the forth featured category."
+msgstr ""
+
+#: ../settings/theme-options.php:338
+msgid "Enable Sub Categories"
+msgstr ""
+
+#: ../settings/theme-options.php:340
+msgid "Check to enable the sub categories on homepage."
+msgstr ""
+
+#: ../settings/theme-options.php:344
+msgid "Sub Category"
+msgstr ""
+
+#: ../settings/theme-options.php:353
+msgid "Select the category for the sub categories block."
+msgstr ""
+
+#: ../settings/theme-options.php:359
+msgid "Latest Posts List"
+msgstr ""
+
+#: ../settings/theme-options.php:361
+msgid "Check to show latest posts list on homepage."
+msgstr ""
+
+#: ../settings/theme-options.php:366
+msgid "Show Extra User Info"
+msgstr ""
+
+#: ../settings/theme-options.php:368
+msgid "Check to show User Fields Contact (Twitter/Facebook/g+/Path/LINE)."
+msgstr ""
+
+#: ../settings/theme-options.php:373 ../settings/theme-options.php:400
+#: ../settings/theme-options.php:421 ../settings/theme-options.php:454
+#: ../settings/theme-options.php:465
+msgid "Save Settings"
+msgstr ""
+
+#: ../settings/theme-options.php:378
+msgid "Post and Page Settings"
+msgstr ""
+
+#: ../settings/theme-options.php:382
+msgid "Display Author Info"
+msgstr ""
+
+#: ../settings/theme-options.php:384
+msgid "Check to display the author information in the post."
+msgstr ""
+
+#: ../settings/theme-options.php:388
+msgid "Enable comments on pages"
+msgstr ""
+
+#: ../settings/theme-options.php:390
+msgid "Check to enable the comments on pages."
+msgstr ""
+
+#: ../settings/theme-options.php:394
+msgid "Enable comments on media"
+msgstr ""
+
+#: ../settings/theme-options.php:396
+msgid "Check to enable the comments on media posts."
+msgstr ""
+
+#: ../settings/theme-options.php:405
+msgid "Ads and Custom Styles"
+msgstr ""
+
+#: ../settings/theme-options.php:409
+msgid "Header ad code."
+msgstr ""
+
+#: ../settings/theme-options.php:411
+msgid "Enter complete code for header ad."
+msgstr ""
+
+#: ../settings/theme-options.php:415
+msgid "Enter your custom CSS styles."
+msgstr ""
+
+#: ../settings/theme-options.php:417
+msgid "You can enter custom CSS styles. It will overwrite the default style."
+msgstr ""
+
+#: ../settings/theme-options.php:426
+msgid "Webmaster Tools"
+msgstr ""
+
+#: ../settings/theme-options.php:430
+msgid "Meta Description"
+msgstr ""
+
+#: ../settings/theme-options.php:432
+msgid ""
+"A short description of your site for the META Description tag. Keep it less "
+"than 149 characters."
+msgstr ""
+
+#: ../settings/theme-options.php:436
+msgid "Statistics Tracking Code"
+msgstr ""
+
+#: ../settings/theme-options.php:438
+msgid ""
+"If you want to add any tracking code (eg. Google Analytics). It will appear "
+"in the header of the theme."
+msgstr ""
+
+#: ../settings/theme-options.php:442
+msgid "Google Site Verification"
+msgstr ""
+
+#: ../settings/theme-options.php:444
+msgid "Enter your ID only."
+msgstr ""
+
+#: ../settings/theme-options.php:448
+msgid "Bing Site Verification"
+msgstr ""
+
+#: ../settings/theme-options.php:450
+msgid ""
+"Enter the ID only. <strong>Yahoo</strong> search is powered by Bing, so it "
+"will be automatically verified by Yahoo as well."
+msgstr ""
+
+#: ../settings/theme-options.php:466
+msgid "Reset Defaults"
+msgstr ""
+
+#: ../widgets/kuas_header_content.php:132
+msgid "Cari tempat lainnya"
+msgstr "Looking other venue"
+
+#: ../widgets/kuas_header_content.php:223
+msgid "Mencari"
+msgstr "Searching"
+
+#: ../widgets/kuas_header_content.php:224
+msgid "mencari tempat"
+msgstr "searching venue"
+
+#: ../widgets/kuas_header_content.php:225
+msgid "Cari?"
+msgstr "Search?"
+
+#: ../widgets/kuas_header_content.php:226
+msgid "Cari tempat sekitaran"
+msgstr "Looking venue near"
+
+#: ../widgets/kuas_header_content.php:227
+msgid "Pilih Kategori"
+msgstr "Select Categories"
+
+#: ../widgets/kuas_header_content.php:228
+msgid "Pilih Lokasi"
+msgstr "Choose Location"
+
+#: ../widgets/kuas_header_content.php:229
+msgid "Sekitaran"
+msgstr "Nearby"
+
+#: ../widgets/kuas_header_content.php:230
+#: ../widgets/kuas_header_content.php:390
+msgid "Perbesar"
+msgstr "Zoom In"
+
+#: ../widgets/kuas_header_content.php:231
+msgid "Perkecil"
+msgstr "Zoom Out"
+
+#: ../widgets/kuas_header_content.php:232
+msgid "gagal loading"
+msgstr "loading failed"
+
+#: ../widgets/kuas_header_content.php:233
+msgid "Rekomendasi"
+msgstr "Recommended"
+
+#: ../widgets/kuas_header_content.php:234
+msgid "orang pernah kesini"
+msgstr "people was here"
+
+#: ../widgets/kuas_header_content.php:235
+msgid "Lihat Informasinya"
+msgstr "Information Details"
+
+#: ../widgets/kuas_header_content.php:236
+msgid "orang"
+msgstr "people"
+
+#: ../widgets/kuas_header_content.php:390
+msgid "Klik untuk mencari tempat lain"
+msgstr "Click for searching venue"
+
+#: ../widgets/kuas_header_content.php:390
+msgid "Gunakan dengan kata kunci"
+msgstr "Using keywords"
+
+#: ../widgets/kuas_widget_for_general_function.php:53
+#, php-format
+msgid "sudah dibagikan sebanyak %2$s kali oleh pengunjung"
+msgstr "has been shared %2$s by visitor"
+
+#: ../widgets/kuas_widget_social_links.php:21
+msgid "A widget to display the social links in footer or sidebar."
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:24
+msgid "KuAs: Social Links"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:58
+msgid "&nbsp;"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:104
+#: ../widgets/kuas_widget_subcategories.php:206
+#: ../widgets/kuas_widget_tab.php:114 ../widgets/kuas_widget_weather.php:270
+#: ../widgets/_unused/default.php:123 ../widgets/_unused/widget_ad125.php:120
+#: ../widgets/_unused/widget_facebook.php:61
+#: ../widgets/_unused/widget_twitter.php:94
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:110
+msgid "Mode:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:123
+msgid "Twitter URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:128
+#: ../widgets/_unused/widget_facebook.php:66
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:133
+msgid "Google Plus URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:138
+msgid "Youtube URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:143
+msgid "Path Profile ID:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:148
+msgid "Pinterest URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:153
+msgid "Vimeo URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:158
+msgid "Instagram URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:163
+msgid "RSS URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_social_links.php:168
+msgid "Contact Page URL:"
+msgstr ""
+
+#: ../widgets/kuas_widget_subcategories.php:36
+msgid "Widget ini menampilkan jumlah tulisan dari daftar sub kategori."
+msgstr "A widget to display latest sub categories count in the theme"
+
+#: ../widgets/kuas_widget_subcategories.php:39
+msgid "KuAs: Sub Categories"
+msgstr ""
+
+#: ../widgets/kuas_widget_subcategories.php:64
+msgid "Salah Pengaturan"
+msgstr "Undifined Setting"
+
+#: ../widgets/kuas_widget_subcategories.php:64
+msgid "Sub Categories Widget"
+msgstr ""
+
+#: ../widgets/kuas_widget_subcategories.php:141
+#: ../widgets/kuas_widget_subcategories.php:152
+#: ../widgets/kuas_widget_subcategories.php:163
+#: ../widgets/kuas_widget_subcategories.php:173
+msgid "Aktifkan Sub Categories di Theme Setting"
+msgstr "Sub Categories on Theme Setting must enabled"
+
+#: ../widgets/kuas_widget_subcategories.php:211
+msgid "Select Categories:"
+msgstr ""
+
+#: ../widgets/kuas_widget_subcategories.php:223
+msgid "Select will show to:"
+msgstr ""
+
+#: ../widgets/kuas_widget_subcategories.php:239
+msgid "Pilih model tampilan:"
+msgstr "Select Mode Display"
+
+#: ../widgets/kuas_widget_subcategories.php:250
+msgid "Berapa banyak ditampilkan:"
+msgstr "How much display"
+
+#: ../widgets/kuas_widget_subcategories.php:255
+msgid "Tampilkan kategori jika isi tulisan 0:"
+msgstr "Show categories have 0 post"
+
+#: ../widgets/kuas_widget_tab.php:21
+msgid "Membuat tab multi konten brooh."
+msgstr "Create multi tab content bro."
+
+#: ../widgets/kuas_widget_tab.php:24
+msgid "KuAs: Multi Tabs"
+msgstr ""
+
+#: ../widgets/kuas_widget_tab.php:119
+msgid "Control Tab (use separate character):"
+msgstr ""
+
+#: ../widgets/kuas_widget_tab.php:124
+msgid "Header Tab (use separate character):"
+msgstr ""
+
+#: ../widgets/kuas_widget_tab.php:129
+msgid "Content Tab (use separate character):"
+msgstr ""
+
+#: ../widgets/kuas_widget_tab.php:134
+msgid "Auto Play Interval:"
+msgstr ""
+
+#: ../widgets/kuas_widget_tab.php:139
+msgid "Auto Height:"
+msgstr ""
+
+#: ../widgets/kuas_widget_tab.php:144
+msgid "Initial Tab:"
+msgstr ""
+
+#: ../widgets/kuas_widget_tab.php:149
+msgid "Color Tab:"
+msgstr ""
+
+#: ../widgets/kuas_widget_weather.php:273
+msgid "API Key 1:"
+msgstr ""
+
+#: ../widgets/kuas_widget_weather.php:276
+msgid "API Key 2:"
+msgstr ""
+
+#: ../widgets/kuas_widget_weather.php:279
+msgid "API Key 3:"
+msgstr ""
+
+#: ../widgets/kuas_widget_weather.php:282
+msgid "API Key 4:"
+msgstr ""
+
+#: ../widgets/kuas_widget_weather.php:285
+msgid "API Key 5:"
+msgstr ""
+
+#: ../widgets/kuas_widget_weather.php:288
+msgid "City:"
+msgstr ""
+
+#: ../widgets/kuas_widget_weather.php:291
+msgid "Country:"
+msgstr ""
+
+#: ../widgets/kuas_widget_weather.php:294
+msgid "Time Zone:"
+msgstr ""
+
+#: ../widgets/_unused/default.php:24 ../widgets/_unused/widget_ad125.php:24
+msgid "This widget allows to place upto 4 125x125 ads in sidebar."
+msgstr ""
+
+#: ../widgets/_unused/default.php:25 ../widgets/_unused/widget_ad125.php:25
+msgid "Max: Sidebar 125x125 Ads"
+msgstr ""
+
+#: ../widgets/_unused/default.php:81
+msgid "Popular Categories"
+msgstr ""
+
+#: ../widgets/_unused/default.php:129 ../widgets/_unused/widget_ad125.php:126
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: ../widgets/_unused/default.php:135 ../widgets/_unused/widget_ad125.php:132
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: ../widgets/_unused/default.php:141 ../widgets/_unused/widget_ad125.php:138
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: ../widgets/_unused/default.php:147 ../widgets/_unused/widget_ad125.php:144
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: ../widgets/_unused/default.php:153 ../widgets/_unused/widget_ad125.php:150
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: ../widgets/_unused/default.php:159 ../widgets/_unused/widget_ad125.php:156
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: ../widgets/_unused/default.php:165 ../widgets/_unused/widget_ad125.php:162
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: ../widgets/_unused/default.php:171 ../widgets/_unused/widget_ad125.php:168
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: ../widgets/_unused/widget_facebook.php:22
+msgid "A widget to display your facebook like box."
+msgstr ""
+
+#: ../widgets/_unused/widget_facebook.php:25
+msgid "Max: Facebook Likebox"
+msgstr ""
+
+#: ../widgets/_unused/widget_subscriber_counter.php:21
+msgid "A widget to show Feedburner subscribers and twitter followers."
+msgstr ""
+
+#: ../widgets/_unused/widget_subscriber_counter.php:22
+msgid "Max: Subscriber Counter"
+msgstr ""
+
+#: ../widgets/_unused/widget_subscriber_counter.php:123
+msgid "Feedburner ID:"
+msgstr ""
+
+#: ../widgets/_unused/widget_subscriber_counter.php:128
+msgid "Twitter ID:"
+msgstr ""
+
+#: ../widgets/_unused/widget_twitter.php:22
+msgid "A widget to display latest tweets in the theme."
+msgstr ""
+
+#: ../widgets/_unused/widget_twitter.php:25
+msgid "Max: Latest Tweets"
+msgstr ""
+
+#: ../widgets/_unused/widget_twitter.php:100
+msgid "Twitter username:"
+msgstr ""
+
+#~ msgid "Silahkan gunakan browser PC/Laptop untuk mengakses lebih optimal"
+#~ msgstr "Please use the browser PC / Laptop to access more optimal"
+
+#~ msgid "Judul harus lebih dari 2 kata"
+#~ msgstr "Title should be more than 2 words"
+
+#~ msgid "<font color=\"red\">*</font> Pilih Kategori Tulisan"
+#~ msgstr "<font color=\"red\">*</font> Choose Post Categories"
+
+#~ msgid "<font color=\"red\">*</font> Pilih Gambar"
+#~ msgstr "<font color=\"red\">*</font> Choose Image"
+
+#~ msgid "<font color=\"red\">*</font> Isi Tulisan (min 200 huruf):"
+#~ msgstr "<font color=\"red\">*</font> Post content (min 200 words):"
+
+#~ msgid "Lihat semua saluran"
+#~ msgstr "View all channel"
+
+#~ msgid "lihat "
+#~ msgstr "view"
+
+#~ msgid "Anda ada di saluran %s"
+#~ msgstr "You are in %s channel"

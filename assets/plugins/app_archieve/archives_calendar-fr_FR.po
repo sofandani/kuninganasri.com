@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Archives Calendar Widget\n"
+"POT-Creation-Date: 2013-08-30 01:11+0100\n"
+"PO-Revision-Date: 2013-08-30 01:12+0100\n"
+"Last-Translator: \n"
+"Language-Team: Aleksei Polechin (alek´)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archives-calendar.php:113
+msgid "Settings"
+msgstr "Paramètres"
+
+#: archives-calendar.php:153
+msgid "Show archives as calendar"
+msgstr "Afficher les archives en tant que calendrier"
+
+#: archives-calendar.php:178
+msgid "Archives"
+msgstr "Archives"
+
+#: archives-calendar.php:190
+msgid "Title:"
+msgstr "Titre:"
+
+#: archives-calendar.php:194
+msgid "Previous button text:"
+msgstr "Texte du bouton \"Précédent\":"
+
+#: archives-calendar.php:196
+msgid "Next button text:"
+msgstr "Texte du bouton \"Suivant\":"
+
+#: archives-calendar.php:200
+msgid "Show number of posts:"
+msgstr "Afficher le nombre d'articles:"
+
+#: archives-calendar.php:203
+msgid "Yes"
+msgstr "Oui"
+
+#: archives-calendar.php:206
+msgid "No"
+msgstr "Non"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Jan"
+msgstr "JAN"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Feb"
+msgstr "FÉV"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Mar"
+msgstr "MAR"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Apr"
+msgstr "AVR"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "May"
+msgstr "MAI"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Jun"
+msgstr "JUN"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Jul"
+msgstr "JUL"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Aug"
+msgstr "AOÛ"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Sep"
+msgstr "SEP"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Oct"
+msgstr "OCT"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Nov"
+msgstr "NOV"
+
+#: archives-calendar.php:220 archives-calendar.php:453
+msgid "Dec"
+msgstr "DÉC"
+
+#: archives-calendar.php:270 archives-calendar.php:445
+msgid "Select archives year"
+msgstr "Selectioner une année"
+
+#: archives-calendar.php:286 archives-calendar.php:469
+msgid "Post"
+msgstr "Article"
+
+#: archives-calendar.php:286 archives-calendar.php:469
+msgid "Posts"
+msgstr "Articles"
+
+#: archives-calendar.php:368
+msgid "Archives Calendar Settings"
+msgstr "Archives Calendar - Paramètres"
+
+#: archives-calendar.php:397 archives-calendar.php:495
+msgid "Theme"
+msgstr ""
+
+#: archives-calendar.php:398 archives-calendar.php:496
+msgid "Default"
+msgstr "Par défaut"
+
+#: archives-calendar.php:402 archives-calendar.php:500
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: archives-calendar.php:403
+msgid "Cancel"
+msgstr "Annuler"
+
+#: archives-calendar.php:490
+msgid ""
+"The theme's CSS file is not included in administration, this preview may be "
+"different from the website rendering."
+msgstr ""
+"Le fichier CSS du thème n'est pas inclus dans l'administration, cet aperçu "
+"peut être different du rendu sur le site."
+
+#: archives-calendar.php:493
+msgid "Include CSS file"
+msgstr "Inclure le fichier CSS"
+
+#: archives-calendar.php:494
+msgid ""
+"Include CSS file from the plugin.<br /><strong>It's recommended to copy the "
+"CSS code to your theme´s <strong>style.css</strong> and uncheck this option."
+msgstr ""
+"Inclure le fichier CSS à partir du plugin.<br /><strong>Il est récommandé de "
+"copier le code CSS dans le fichier <strong>style.css</strong> de votre theme "
+"et de décocher cette option."
+
+#: archives-calendar.php:501
+msgid "Preview"
+msgstr ""
+
+#: archives-calendar.php:502
+msgid ""
+"<strong>NOTE:</strong> if you have modified any plugin's CSS file it will be "
+"restored on next plugin update."
+msgstr ""
+"NOTE: Si vous avez modifié un fichier CSS du plugin, celui-ci sera restauré "
+"à la prochaine mise à jour du plugin."
+
+#: archives-calendar.php:506
+msgid "Include jQuery library"
+msgstr "Inclure la bibliothèque jQuery"
+
+#: archives-calendar.php:507
+msgid ""
+"Include jQuery library into your theme. Uncheck if your theme already "
+"includes jQuery library.<br /><strong>jQuery library is required.</strong>"
+msgstr ""
+"Inclure la bibliothèque jQuery dans votre thème. Décochez la case si votre "
+"thème utilise déjà la bibliothèque jQuery. <br /><strong>jQuery est "
+"nécessaire.</strong>"
+
+#: archives-calendar.php:510
+msgid "Insert JavaScript code into <head>"
+msgstr "Insérer le code JavaScript dans le <head> de votre thème"
+
+#: archives-calendar.php:511
+msgid ""
+"Insert javascript code into your themes <head> Uncheck only if you copy this "
+"code into your default .js file."
+msgstr ""
+"Insérer le code javascript dans le <head> de votre thème. Décochez seulement "
+"si vous copiez ce code dans votre fichier .js par défaut."
+
+#: archives-calendar.php:512
+msgid "This code is required."
+msgstr "Ce code est nessaissaire."
+
+#: archives-calendar.php:514
+msgid "Show default script"
+msgstr "Afficher le script par défaut"
+
+#: archives-calendar.php:594
+msgid "Enable Shortcode support in text widget"
+msgstr "Activer le support des shortcodes dans la Widget Texte"
+
+#: archives-calendar.php:595
+msgid "Use the shortcode in a text widget to display Archives Calendar."
+msgstr ""
+"Utiliser le shortcode dans la Widget Texte pour afficher l'Archives Calendar."
+
+#: archives-calendar.php:601
+msgid "Show link to Settings in admin menu"
+msgstr "Afficher le lien vers les paramètres dans le menu d'administration"
+
+#: archives-calendar.php:602
+msgid ""
+"Show link \"Archives Calendar\" in admin \"Settings\" menu. If unchecked you "
+"can enter settings from \"Settings\" link in \"Plugins\" page."
+msgstr ""
+"Afficher le lien \"Archives Calendar\" dans le menu \"Réglages\". Si "
+"décoché, vous pouvez accèder au paramètres du plugin via le lien \"Paramètres"
+"\" sur la page \"Extensions\"."
+
+#: archives-calendar.php:606
+msgid "Save Changes"
+msgstr ""
+
+#: archives-calendar.php:624
+msgid "News/Updates"
+msgstr "Actualités/Mises à jour"
+
+#: archives-calendar.php:641
+msgid "More"
+msgstr "Plus"
+
+#: archives-calendar.php:644
+msgid "No posts"
+msgstr "Pas d'actualaités"
+
+#: archives-calendar.php:650
+msgid "Also"
+msgstr "Aussi"
+
+#: archives-calendar.php:652
+msgid "My other projects on "
+msgstr "Mes autres projets sur"
+
+#: archives-calendar.php:660
+msgid "My portfolio:"
+msgstr "Mon portfolio:"
+
+#: archives-calendar.php:667
+msgid ""
+"If you like this plugin please <strong>support my work</strong>, buy me "
+"<strong>a beer or a coffee</strong>. Click Donate and specify your amount."
+msgstr ""
+"Si vous aimez ce plugin merci de <strong>soutenir mon travail</strong>, "
+"achetez-moi <strong>une bière ou un café</strong>. Cliquez \"Donate\" et "
+"précisez le montant."
+
+#: archives-calendar.php:671
+msgid "In Belgium 1 coffee or 1 beer costs about 2€"
+msgstr "En Belgique 1 café ou 1 bière coute environ 2€"
+
+#~ msgid "Works only if \"Include default CSS file\" is enabled."
+#~ msgstr "Fonctionne uniquement"

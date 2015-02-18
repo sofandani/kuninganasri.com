@@ -1,0 +1,101 @@
+.widget_tabs {border:none !important;background-image: none !important;background-color: transparent !important;}
+.widget_tabs .kuas-tabs {margin: 0 0 2px 0;}
+.kuas-tabs { float: left; position: relative; width: 100%; margin: 0 0 10px 0; }
+.kuas-tabs:nth-child(2n+2){ margin-right: 0; }
+.kuas-tabs:nth-child(2n+1){ clear: both; }
+.kuas-tabs .kuas-tabs_tab_container{ float: left; position: relative; width: 100%; z-index: 100; }
+.kuas-tabs .kuas-tabs_tab_container a { position: relative; display: inline-block; cursor: pointer; font-family: Ubuntu-Bold; }
+
+.kuas-tabs .kuas-tabs_content_container {
+	position: relative;
+	min-height: 50px;
+	overflow: hidden;
+	z-index: 50;
+	clear: both;
+	display: block;
+}
+
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner { position: relative; height: auto; }
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner .kuas-tabs_content { position: absolute; width: 100%; }
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner .kuas-tabs_content span.row { float: left; clear: both; }
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner h1 { font-size: 18px; }
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner p { margin-bottom: 0; }
+.kuas-tabs-inner_content_child { padding: 15px; }
+.kuas-tabs.kuastab-menus .kuas-tabs_content_container { padding: 0px; }
+.kuas-tabs.autoHeight-0 .kuas-tabs_content_container{min-height:355px;}
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container {
+	padding: 0;border: none;outline: none;list-style-type: none;line-height: 0;font-weight: bold;font-size: 11px;
+	display: block;margin: 0;clear: both;position: relative;z-index: 98;bottom: 0;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li, .kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container{
+	list-style: none;
+}
+
+.widget .kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li{
+	margin: 0;padding: 0;height: inherit;background-image: none;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li, .kuas-tabs.kuastab-menus.full-width ul.kuas-tabs_tab_container {}
+.kuas-tabs.kuastab-menus.full-width ul.kuas-tabs_tab_container { background-color: #ffa800 !important; }
+.kuas-tabs.kuastab-menus.full-width ul.kuas-tabs_tab_container li { background: transparent !important; }
+
+.kuas-tabs.kuastab-menus.full-width ul.kuas-tabs_tab_container {width: 100%;display: block;clear: both;list-style: none;border: none;}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li a { text-decoration: none; color: #f1f1f1; }
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li a:focus { outline: none; }
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li {
+	outline: none;list-style-type: none;line-height: 0;display: inline-block;border-top-right-radius: 5px;border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;-webkit-border-top-left-radius: 5px;-moz-border-top-right-radius: 5px;-moz-border-top-left-radius: 5px;}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container > li:hover, .kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container > li.active {
+	background-color: rgba(0,0,0,0.2);
+	box-shadow: inset 0 4px 7px rgba(0,0,0,0.3);
+	-webkit-box-shadow: inset 0 4px 7px rgba(0,0,0,0.3);
+	-moz-box-shadow: inset 0 4px 7px rgba(0,0,0,0.3);
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li > a {
+	line-height: 40px;padding: 0 15px 0 15px;text-transform: capitalize;
+	-moz-text-shadow: 1px 1px rgba(0,0,0,0.1);-webkit-text-shadow: 1px 1px rgba(0,0,0,0.1);-o-text-shadow: 1px 1px rgba(0,0,0,0.1);text-shadow: 1px 1px rgba(0,0,0,0.1);
+}
+
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container {
+	padding: 0;
+	border-bottom: solid 1px rgba(199, 132, 14, 1);
+	text-align: center;
+}
+.kuas-tabs.kuastab-menus.yellow div.kuas-tabs_content_container{	
+	border-top: solid 1px rgb(247, 188, 84);
+	border-width: 1px;
+	border-style: solid;
+}
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li{background-color: orange;border-width: 1px;border-style: solid;border-bottom: none;overflow: hidden;}
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li:last-child{}
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li:nth-of-type(odd){border-color: rgb(255, 153, 0);}
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li:nth-of-type(even){border-color: rgb(202, 133, 6);}
+
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li > a {
+	background-color: orange;
+	font-family: Ubuntu-Bold;
+	font-size: 15px;
+	-moz-text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+	-webkit-text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+	-o-text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+	color: rgba(75,35,0,0.8);
+}
+
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li.active a,
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li:hover a {
+	background-color: rgb(206, 126, 23);
+	-moz-text-shadow: 1px 1px 1px rgba(53, 27, 0, 0.6);
+	-webkit-text-shadow: 1px 1px 1px rgba(53, 27, 0, 0.6);
+	-o-text-shadow: 1px 1px 1px rgba(53, 27, 0, 0.6);
+	text-shadow: 1px 1px 1px rgba(53, 27, 0, 0.6);
+	color: #fff;
+	box-shadow: inset 0 4px 7px rgba(0,0,0,0.3);
+	-webkit-box-shadow: inset 0 4px 7px rgba(0,0,0,0.3);
+	-moz-box-shadow: inset 0 4px 7px rgba(0,0,0,0.3);
+}

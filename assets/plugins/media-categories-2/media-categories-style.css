@@ -1,0 +1,65 @@
+.media-sidebar .category-tabs, 
+.media-sidebar .metabox_container .field,
+.media-sidebar .wp-hidden-children{
+    display:none;
+}
+
+.media-sidebar .category-filter {
+    font-size: 12px;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+/*.media-sidebar .categorydiv {
+	width:225px;
+	margin-left:-85px;
+}*/
+
+.metabox_container td.field {
+	width: 99%;
+}
+.metabox_container input[type="checkbox"] {
+	width: auto;
+}
+
+tr.metabox_container th.label span {
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 12px;
+	color: #777;
+	text-shadow: 0 1px 0 white;
+	margin: 0 0 8px;
+}
+
+.metabox_container, div.attachment-details {
+	overflow: hidden;
+	box-shadow: 0 1px 0 white;
+	border-bottom: 1px solid #E5E5E5;
+	margin-bottom: 16px;
+	padding-bottom: 11px;
+}
+
+div.attachment-details {
+	padding-bottom: 24px;
+	margin-bottom: 10px;
+}
+
+.arrow-down {
+	width: 0;
+	height: 0;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-top: 10px solid black;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.arrow-up {
+	width: 0; 
+	height: 0; 
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-bottom: 10px solid black;
+	display: inline-block;
+	margin-left: 10px;
+}

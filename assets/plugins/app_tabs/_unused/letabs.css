@@ -1,0 +1,333 @@
+.kuas-tabs {
+	float: left;
+	position: relative;
+	width: 100%;
+	margin:0;
+}
+
+.kuas-tabs:nth-child(2n+2) {
+	margin-right: 0;
+}
+
+.kuas-tabs:nth-child(2n+1) {
+	clear: both;
+}
+
+.kuas-tabs .kuas-tabs_tab_container {
+	float: left;
+	position: relative;
+	width: 100%;
+	z-index: 100;
+}
+
+.kuas-tabs .kuas-tabs_tab_container a {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	font-family: Ubuntu-Bold;
+}
+
+.kuas-tabs .kuas-tabs_content_container {
+	position: relative;
+	height: 350px;
+	overflow: hidden;
+	z-index: 50;
+	clear: both;
+}
+
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner {
+	position: relative;
+	height: auto;
+}
+
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner .kuas-tabs_content {
+	position: absolute;
+	width: 100%;
+}
+
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner .kuas-tabs_content span.row {
+	float: left;
+	clear: both;
+}
+
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner h1 {
+	font-size: 18px;
+}
+
+.kuas-tabs .kuas-tabs_content_container .kuas-tabs_content_inner p {
+	margin-bottom: 0;
+}
+
+.kuas-tabs.oldlook .kuas-tabs_tab_container {
+	margin-bottom: -1px;
+}
+
+.kuas-tabs.oldlook .kuas-tabs_tab_container a {
+	color: #6e6e6e !important;
+	padding: 10px 15px !important;
+	font: bold 13px Ubuntu-Bold !important;
+	text-decoration: none;
+	text-shadow: 0 1px 0 #fff;
+	background: #f3f3f3;
+	background: -webkit-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1));
+	background: -moz-linear-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1));
+	border: solid 1px #dcdcdc;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-transition: border-color .218s;
+	-moz-transition: border .218s;
+	-o-transition: border-color .218s;
+	transition: border-color .218s;
+}
+
+.kuas-tabs.oldlook .kuas-tabs_tab_container a:not(.active):hover {
+	color: #555 !important;
+	border-color: #999;
+	border-bottom-color: gainsboro;
+}
+
+.kuas-tabs.oldlook .kuas-tabs_tab_container a:not(.active):active {
+	color: #333 !important;
+	-moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.kuas-tabs.oldlook .kuas-tabs_tab_container a:first-child {
+}
+
+.kuas-tabs.oldlook .kuas-tabs_tab_container a.active {
+	color: #1CA5EC !important;
+	border-bottom-color: white;
+	background: white;
+	margin-top: -1px;
+	padding-top: 11px;
+}
+
+.kuas-tabs.oldlook .kuas-tabs_content_container {
+	padding: 0px;
+	border: 1px solid #D4D4D4;
+	background-color: white;
+}
+
+.kuas-tabs-inner_content_child {
+	padding: 20px;
+}
+
+.kuas-tabs.newlook {
+	background-color: #ffffff;
+	font-size: 12px;
+}
+
+.kuas-tabs.grey {
+	background-color: #efefef;
+	padding: 10px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+}
+
+.kuas-tabs.newlook .kuas-tabs_tab_container {
+	background-color: #2ba4e3;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1e8fca), to(#2ba4e3));
+	background: -webkit-linear-gradient(top, #2ba4e3, #1e8fca);
+	background: -moz-linear-gradient(top, #2ba4e3, #1e8fca);
+	background: -ms-linear-gradient(top, #2ba4e3, #1e8fca);
+	background: -o-linear-gradient(top, #2ba4e3, #1e8fca);
+	-moz-box-shadow: 0px 1px 1px rgba(255,255,255,0.15);
+	-webkit-box-shadow: 0px 1px 1px rgba(255,255,255,0.15);
+	-ms-box-shadow: 0px 1px 1px rgba(255,255,255,0.15);
+	-o-box-shadow: 0px 1px 1px rgba(255,255,255,0.15);
+	box-shadow: 0px 1px 1px rgba(255,255,255,0.15);
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+}
+
+.kuas-tabs.newlook .kuas-tabs_tab_container a {
+	color: #ffffff;
+	float: left;
+	line-height: 30px;
+	height: 30px;
+	padding: 0 15px;
+}
+
+.kuas-tabs.newlook .kuas-tabs_tab_container a:first-child {
+	-webkit-border-radius: 5px 0 0 5px;
+	-moz-border-radius: 5px 0 0 5px;
+	-ms-border-radius: 5px 0 0 5px;
+	-o-border-radius: 5px 0 0 5px;
+}
+
+.kuas-tabs.newlook .kuas-tabs_tab_container a.active {
+	padding: 0 14px;
+	font-weight: bold;
+	background-color: #187db1;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#187db1), to(#2b9cd6));
+	background: -webkit-linear-gradient(top, #2b9cd6, #187db1);
+	background: -moz-linear-gradient(top, #2b9cd6, #187db1);
+	background: -ms-linear-gradient(top, #2b9cd6, #187db1);
+	background: -o-linear-gradient(top, #2b9cd6, #187db1);
+	-moz-box-shadow: inset 0px -4px 13px rgba(0,0,0,0.25);
+	-webkit-box-shadow: inset 0px -4px 13px rgba(0,0,0,0.25);
+	-ms-box-shadow: inset 0px -4px 13px rgba(0,0,0,0.25);
+	-o-box-shadow: inset 0px -4px 13px rgba(0,0,0,0.25);
+	box-shadow: inset 0px -4px 13px rgba(0,0,0,0.25);
+}
+
+.kuas-tabs.newlook .kuas-tabs_content_container {
+	padding: 0px;
+	color: #454545;
+}
+
+
+/* LeMenu 2011 Â© scripts.mioo.sk */
+
+/* LeMenu - Container */
+.kuas-tabs.kuastab-menus .kuas-tabs_content_container {
+	padding: 0px;
+	color: #454545;
+	background-color: #efefef;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container {
+	position: relative;
+	width: auto;
+	float: left;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	border: 1px solid #ffffff;
+	/*-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;*/
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0,0,0,0.0)), color-stop(100%, rgba(0,0,0,0.30)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.30) 100%);
+	background: -moz-linear-gradient(top, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.30) 100%);
+	background: -o-linear-gradient(top, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.30) 100%);
+	background: -ms-linear-gradient(top,rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.30) 100%);
+	background: linear-gradient(top, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.30) 100%);
+	font-family: Ubuntu;
+	font-weight: bold;
+	font-size: 11px;
+}
+
+.kuas-tabs.kuastab-menus.oldlook ul.kuas-tabs_tab_container {
+	background: transparent !important;
+}
+
+.kuas-tabs.kuastab-menus.full-width ul.kuas-tabs_tab_container {
+	width: 100%;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li a {
+	text-decoration: none;
+	color: #f1f1f1;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li a:focus {
+	outline: none;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li {
+	float: left;
+	-webkit-transition: background-color 0.2s ease-out;
+	-moz-transition: background-color 0.2s ease-out;
+	-o-transition: background-color 0.2s ease-out;
+	-ms-transition: background-color 0.2s ease-out;
+	transition: background-color 0.2s ease-out;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container > li:hover, .kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container > li.active {
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0,0,0,0.13)), color-stop(100%, rgba(0,0,0,0.0)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.13) 0%, rgba(0,0,0,0.0) 100%);
+	background: -moz-linear-gradient(top, rgba(0,0,0,0.13) 0%, rgba(0,0,0,0.0) 100%);
+	background: -o-linear-gradient(top, rgba(0,0,0,0.13) 0%, rgba(0,0,0,0.0) 100%);
+	background: -ms-linear-gradient(top,rgba(0,0,0,0.13) 0%, rgba(0,0,0,0.0) 100%);
+	background: linear-gradient(top, rgba(0,0,0,0.13) 0%, rgba(0,0,0,0.0) 100%);
+	background-color: rgba(0,0,0,0.10);
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container > li:first-child {
+	margin-left: 15px;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container > li:last-child {
+	margin-right: 15px;
+}
+
+.kuas-tabs.kuastab-menus ul.kuas-tabs_tab_container li > a {
+	float: left;
+	line-height: 50px;
+	padding: 0 15px 0 15px;
+	text-transform: uppercase;
+	-moz-text-shadow: 1px 1px rgba(0,0,0,0.1);
+	-webkit-text-shadow: 1px 1px rgba(0,0,0,0.1);
+	-o-text-shadow: 1px 1px rgba(0,0,0,0.1);
+	text-shadow: 1px 1px rgba(0,0,0,0.1);
+}
+
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li:last-child{
+	border-right: solid 1px rgba(0,0,0,0.2);
+}
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li:nth-of-type(odd),
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li:nth-of-type(even){
+	border-left: solid 1px rgba(0,0,0,0.2);
+}
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li > a {
+	font-family: Ubuntu-Bold;
+	font-size: 14px;
+	-moz-text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+	-webkit-text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+	-o-text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
+	color: rgba(75,35,0,0.8);	
+}
+
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container li.active a {
+	-moz-text-shadow: 1px 1px 1px rgba(53, 27, 0, 0.6);
+	-webkit-text-shadow: 1px 1px 1px rgba(53, 27, 0, 0.6);
+	-o-text-shadow: 1px 1px 1px rgba(53, 27, 0, 0.6);
+	text-shadow: 1px 1px 1px rgba(53, 27, 0, 0.6);
+	color: #fff;
+}
+/* LeMenu - Dark style */
+.kuas-tabs.kuastab-menus.dark ul.kuas-tabs_tab_container {
+	background-color: #333;
+}
+
+/* LeMenu - light style */
+.kuas-tabs.kuastab-menus.light ul.kuas-tabs_tab_container {
+	background-color: #999;
+}
+
+/* LeMenu - Blue style */
+.kuas-tabs.kuastab-menus.yellow ul.kuas-tabs_tab_container {
+	background-color: #ffa800;
+}
+
+/* LeMenu - Blue style */
+.kuas-tabs.kuastab-menus.blue ul.kuas-tabs_tab_container {
+	background-color: #11c1f7;
+}
+
+/* LeMenu - Green style */
+.kuas-tabs.kuastab-menus.green ul.kuas-tabs_tab_container {
+	background-color: #27d187;
+}
+
+/* LeMenu - Purple style */
+.kuas-tabs.kuastab-menus.purple ul.kuas-tabs_tab_container {
+	background-color: #9b3c9a;
+}
+
+/* LeMenu - Pink style */
+.kuas-tabs.kuastab-menus.pink ul.kuas-tabs_tab_container {
+	background-color: #f051a4;
+}

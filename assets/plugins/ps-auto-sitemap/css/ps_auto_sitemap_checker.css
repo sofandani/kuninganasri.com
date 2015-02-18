@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+#sitemap_list {
+	padding: 0;
+	margin: 0;
+}
+
+#sitemap_list li {
+	font-size: medium;
+	text-indent: 0;
+	padding: 0 0 10px 0;
+	margin: 25px 0 0 0;
+	list-style-type: none;
+	line-height: 1.5;
+}
+
+#sitemap_list li li {
+	font-size: small;
+	margin: 5px 0 0 0;
+	padding: 5px 0 0 0;
+	border-top: dotted 1px #ccc;
+	border-bottom: none;
+}
+
+#sitemap_list li li li {
+	font-size: 95%;
+	margin: 0;
+	padding: 1px 0 1px 1em;
+	border: none;
+}
+
+#sitemap_list li a {
+	padding: 1px 0 0 25px;
+	text-decoration: none;
+	display: inline-block;
+	min-height: 14px;
+}
+
+#sitemap_list li a:visited {
+	color: #999;
+	background: url(../images/checker/ico_checker_l.png) no-repeat left center;
+}
+
+#sitemap_list li li li a {
+	text-decoration: none;
+	min-height: 12px;
+}
+
+#sitemap_list li li li a:visited {
+	background: url(../images/checker/ico_checker_s.png) no-repeat left center;
+}
+
+#sitemap_list ul {
+	padding: 0;
+	margin: 0;
+}
+
+#sitemap_list ul ul {
+	padding: 0;
+	margin: 0;
+}
+
+#sitemap_list .posts_in_category {
+	position: absolute;
+	padding-left: 10px;
+}
+
+#sitemap_list li .posts_in_category a {
+	background: url(../images/checker/ico_post_list.png) no-repeat center;
+	text-indent: -9999px;
+	display: block;
+	width: 1.2em;
+	height: 1.2em;
+	border: solid 1px #ccc;
+	padding: 0;
+}

@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+#sitemap_list {
+	background: url(../images/document/bg_vertical_line.png) 6px;
+	padding: 0;
+	margin: 0;
+}
+
+#sitemap_list li {
+	font-size: medium;
+	text-indent: 0;
+	padding: 0;
+	margin: 0 0 20px;
+	list-style-type: none;
+	line-height: 1.5;
+}
+
+#sitemap_list li li {
+	background: none;
+	font-size: small;
+	margin: 0 0 0 0;
+	padding: 0 0 0 30px;
+	border-left: none;
+}
+
+#sitemap_list li li li {
+	font-size: 95%;
+	margin: 0;
+}
+
+#sitemap_list li a {
+	background: url(../images/document/ico_post.png) no-repeat left center;
+	padding: 5px 7px 5px 18px;
+	text-decoration: none;
+}
+
+#sitemap_list ul {
+	background: url(../images/document/ico_folder.png) no-repeat 0 0.7em;
+	padding: 0;
+	margin: 0;
+}
+
+#sitemap_list .posts_in_category {
+	position: absolute;
+	padding-top: 0.3em;
+	padding-left: 10px;
+}
+
+#sitemap_list li .posts_in_category a {
+	background: url(../images/document/ico_post_list.png) no-repeat center;
+	text-indent: -9999px;
+	display: block;
+	width: 1.2em;
+	height: 1.2em;
+	border: solid 1px #ccc;
+	padding: 0;
+}

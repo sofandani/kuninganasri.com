@@ -1,0 +1,162 @@
+#gazpo-admin {
+	width: 900px;
+	margin-top: 15px; 
+	font-family: Arial,sans-serif;
+	color: #353E34;
+	
+	overflow:hidden;
+}
+
+#gazpo-admin .clear{
+	clear:both;
+}
+
+#gazpo-admin .options-form{
+	background-color: #fff;
+	border: solid 1px #dfdfdf;
+	padding: 15px 20px;
+}
+
+#gazpo-admin .options-form .field{
+	margin-bottom:10px;
+	overflow:auto;	
+}
+
+#gazpo-admin .options-form .block,
+#gazpo-admin .options-form .support-block{
+	overflow:hidden;
+	background:#f7f7f7;
+	padding:20px 10px;
+	border-bottom: solid 1px #f3f3f3;
+	border-top:none;	
+}
+
+#gazpo-admin .options-form .support-block p{
+	margin-top:0;
+}
+
+#gazpo-admin .options-form label {
+	font-weight: bold;
+    line-height:2.5;
+    display: inline-block;
+    width:180px;
+    margin-right:10px;
+	text-align:right;	
+}
+	
+#gazpo-admin .options-form input[type="text"], #gazpo-admin .options-form select{
+	border: 1px solid #d5d5d5;
+	color: #444444;   
+    height:34px;
+	font-size:14px;
+    padding:6px 8px;
+    width:330px;
+    display: inline-block;
+    margin-right:10px;		
+}
+
+#gazpo-admin .options-form input[type="checkbox"]{
+	 margin-right:10px;		
+}
+	
+#gazpo-admin .options-form span {
+	font-size: 12px;
+	color:#777777;	
+    display: inline-block;
+    width:300px;
+    line-height:15px;
+    vertical-align: middle;
+	
+}
+
+#gazpo-admin .options-form .textarea{
+	border: 1px solid #d5d5d5;
+	color: #444444;   
+    height:90px;
+	font-size:14px;
+    padding:6px 8px;
+    width:330px;
+    display: inline-block;
+	vertical-align: middle;
+    margin-right:10px;	
+}
+
+#gazpo-admin .options-form .checkbox{
+	width: 13px;
+    height: 13px;
+    padding: 0;
+    margin:7px 325px 0 5px;   
+}
+
+#gazpo-admin  .updated_status{
+	background:#89B92C;
+	color:#ffffff;
+	padding:7px 10px;
+	margin:10px 20px;
+	font-weight:bold;	
+}
+
+#gazpo-admin .submit {
+	float:left;
+	margin-right:10px;
+}
+
+#gazpo-admin .options-form  .updated {
+	overflow:auto;
+	padding:3px 5px;	
+}
+
+
+#gazpo-admin h3.block_title {
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-topright: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	padding: 0 0 0 10px;
+	margin: 20px 0 0;
+	border:1px solid #dfdfdf;
+	background-color: #F1F1F1;
+	background-image: -ms-linear-gradient(top, #F9F9F9, #ECECEC);
+	background-image: -moz-linear-gradient(top, #F9F9F9, #ECECEC);
+	background-image: -o-linear-gradient(top, #F9F9F9, #ECECEC);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#F9F9F9), to(#ECECEC));
+	background-image: -webkit-linear-gradient(top, #F9F9F9, #ECECEC);
+	background-image: linear-gradient(top, #F9F9F9, #ECECEC);
+	height: 34px;
+	line-height: 34px;
+	
+	font-size: 15px;
+	font-weight: normal;
+	
+}
+
+#gazpo-admin h3.support_title {
+	color: #464646;
+	font-family:Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+	text-shadow:#fff 0 1px 0;
+}
+
+#gazpo-admin .support-block{
+	margin-bottom:20px;
+}
+
+#gazpo-admin h3.block_title a {
+	background:url(images/arrow-light.png) 99% 50% no-repeat;
+	color: #464646;
+	font-family:Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+	text-decoration: none;
+	display: block;
+	text-shadow:#fff 0 1px 0;
+}
+
+#gazpo-admin h3.block_title a:hover,
+#gazpo-admin h3.active a  {
+	background:url(images/arrow-dark.png) 99% 50% no-repeat;
+	color: #444;
+}
+
+#gazpo-admin h3.block_title {
+	background-position: left bottom;
+}

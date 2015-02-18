@@ -1,0 +1,7 @@
+[06-Dec-2013 06:02:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kuniicom/public_html/assets/themes/kuas_v1/index.php:17) in /home/kuniicom/public_html/assets/themes/kuas_v1/index.php on line 147
+[06-Dec-2013 06:02:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kuniicom/public_html/assets/themes/kuas_v1/index.php:17) in /home/kuniicom/public_html/assets/themes/kuas_v1/index.php on line 147
+[06-Dec-2013 06:03:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kuniicom/public_html/assets/themes/kuas_v1/index.php:17) in /home/kuniicom/public_html/assets/themes/kuas_v1/index.php on line 147
+[06-Dec-2013 06:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kuniicom/public_html/assets/themes/kuas_v1/index.php:17) in /home/kuniicom/public_html/assets/themes/kuas_v1/index.php on line 147
+[06-Dec-2013 06:08:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function kuas_force_redirect() in /home/kuniicom/public_html/assets/themes/kuas_v1/index.php on line 147
+[06-Dec-2013 06:09:01 Asia/Jakarta] PHP Fatal error:  Call to undefined function kuas_force_redirect() in /home/kuniicom/public_html/assets/themes/kuas_v1/index.php on line 147
+[06-Dec-2013 06:12:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/kuniicom/public_html/assets/themes/kuas_v1/index.php on line 147

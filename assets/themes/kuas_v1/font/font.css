@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ubuntu'), url("Ubuntu-R.eot?#iefix") format("embedded-opentype"), url("Ubuntu-R.woff") format("woff"), url("Ubuntu-R.ttf") format("truetype"), url("Ubuntu-R.svg#Ubuntu-R") format("svg");
+}
+@font-face {
+    font-family: "Ubuntu-Light";
+    font-style: normal;
+    font-weight: 300;
+    src: local('Ubuntu Light'), url("Ubuntu-L.eot?#iefix") format("embedded-opentype"), url("Ubuntu-L.woff") format("woff"), url("Ubuntu-L.ttf") format("truetype"), url("Ubuntu-L.svg#Ubuntu-L") format("svg");
+}
+@font-face {
+    font-family: "Ubuntu-Medium";
+    font-style: normal;
+    font-weight: 500;
+    src: local('Ubuntu Medium'), url("Ubuntu-M.eot?#iefix") format("embedded-opentype"), url("Ubuntu-M.woff") format("woff"), url("Ubuntu-M.ttf") format("truetype"), url("Ubuntu-M.svg#Ubuntu-M") format("svg");
+}
+@font-face {
+    font-family: "Ubuntu-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: local('Ubuntu Bold'), url("Ubuntu-B.eot?#iefix") format("embedded-opentype"), url("Ubuntu-B.woff") format("woff"), url("Ubuntu-B.ttf") format("truetype"), url("Ubuntu-B.svg#Ubuntu-B") format("svg");
+}
+@font-face {
+    font-family: "Ubuntu-Light-Italic";
+    font-style: normal;
+    font-weight: 300;
+    src: local('Ubuntu Light Italic'), url("Ubuntu-LI.eot?#iefix") format("embedded-opentype"), url("Ubuntu-LI.woff") format("woff"), url("Ubuntu-LI.ttf") format("truetype"), url("Ubuntu-LI.svg#Ubuntu-LI") format("svg");
+}
+@font-face {
+    font-family: "Ubuntu-Italic";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ubuntu Italic'), url("Ubuntu-RI.eot?#iefix") format("embedded-opentype"), url("Ubuntu-RI.woff") format("woff"), url("Ubuntu-RI.ttf") format("truetype"), url("Ubuntu-RI.svg#Ubuntu-RI") format("svg");
+}
+@font-face {
+    font-family: "Ubuntu-Medium-Italic";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ubuntu Medium Italic'), url("Ubuntu-MI.eot?#iefix") format("embedded-opentype"), url("Ubuntu-MI.woff") format("woff"), url("Ubuntu-MI.ttf") format("truetype"), url("Ubuntu-MI.svg#Ubuntu-MI") format("svg");
+}
+@font-face {
+    font-family: "Ubuntu-Bold-Italic";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Ubuntu Bold Italic'), url("Ubuntu-BI.eot?#iefix") format("embedded-opentype"), url("Ubuntu-BI.woff") format("woff"), url("Ubuntu-BI.ttf") format("truetype"), url("Ubuntu-BI.svg#Ubuntu-BI") format("svg");
+}
